@@ -9,7 +9,7 @@ public class MyLogger {
     private static final Logger instance = Logger.getLogger(LOGGER_NAME);
 
     private MyLogger(){
-        instance.setLevel(Level.ALL);
+        instance.setLevel(Level.FINEST);
     }
 
     public static void logInfo(String message){
