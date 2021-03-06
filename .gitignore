@@ -137,3 +137,4 @@ fabric.properties
 /.classpath
 /.project
 /SampleSonarProject.iml
+/.idea/sonarlint/
