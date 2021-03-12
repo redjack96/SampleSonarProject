@@ -138,3 +138,5 @@ fabric.properties
 /.project
 /SampleSonarProject.iml
 /.idea/sonarlint/
+
+/target/
